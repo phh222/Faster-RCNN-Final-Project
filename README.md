@@ -17,3 +17,8 @@ python train.py coco
 ```
 # 测试步骤
 在detec.py 文件中修改对应图片和模型的路径，之后运行detect.py
+
+# Reference
+https://github.com/bubbliiiing/faster-rcnn-pytorch
+https://github.com/pitter-patterz/final_pj
+
